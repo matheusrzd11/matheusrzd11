@@ -1,8 +1,8 @@
 ### Hi!! I'm Matheus Rezende
 
 - 🌱 I’m currently in the last semester of my couse.
-- 💻 I'm currently work as a system analyst I
 - 💬 Ask me about my course, which is systems analysis and development.
+- 💻 I'm currently work as a system analyst I
 - 📫 How to reach me: matheusrezende85@souunilavras.com
 - 😄 Pronouns: ele/dele
 
